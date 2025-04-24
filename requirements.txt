@@ -1,0 +1,7 @@
+requests
+opencage
+countryinfo
+phonenumbers
+future
+colorama
+rich
