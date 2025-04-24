@@ -43,7 +43,7 @@ def show_menu():
 --------------------------------------------
       | SEÇİMLƏR
       |---------
-            | -u <Skriptin Yenilənməsi>        | Geo-Phone skriptini daha yaxşı performans üçün yenilə
+            | -u <Skriptin Yenilənməsi>        | AZPulse skriptini daha yaxşı performans üçün yenilə
             | -c <Qurbanın Ölkə Kodu>          | Qurbanın ölkə kodunu '+' işarəsi olmadan qeyd et (məs. 994)
             | -p <Qurbanın Telefon Nömrəsi>    | Qurbanın telefon nömrəsini daxil et
 
