@@ -269,7 +269,7 @@ def infoga(cncode, number):
             url=f"https://google.com/maps/place/{lat},{lng}/@{lat},{lng},16z"
 
             slow(f"                     ")
-            act = input(f'{purple}[{stop}ENTER{purple}] Google Maps-da izləmə xəritəsini açmaq üçün [{stop}ENTER{purple}] düyməsini sıxın, ya da proqramdan çıxmaq üçün [{stop}N{purple}] düyməsini sıxın və [{stop}ENTER{purple}] düyməsini sıxın:{stop} ')
+            act = input(f'{purple}Google Maps-da izləmə xəritəsini açmaq üçün [{stop}ENTER{purple}] düyməsini sıxın, ya da proqramdan çıxmaq üçün [{stop}N{purple}] düyməsini sıxın və [{stop}ENTER{purple}] düyməsini sıxın:{stop} ')
             if act.lower() == 'n':
                 slow(f"{error}Proqramdan çıxılır ...")
                 time.sleep(0.5)
