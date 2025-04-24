@@ -345,7 +345,7 @@ def main():
 
     argument = parser.parse_args()
     number = argument.phone_number
-    cncode = argument.coutry_code
+    cncode = argument.country_code
     update = argument.update_script
 
     # İnternet bağlantısını yoxlayın
