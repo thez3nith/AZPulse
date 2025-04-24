@@ -330,7 +330,7 @@ def main():
 
     parser.add_argument( 
         "-c", "--code", 
-        dest="coutry_code", 
+        dest="country_code", 
         type=str, help='Zəhmət olmasa ölkə kodunu "+" işarəsi olmadan daxil edin. Məs: 994, 011, 010, 995 (yalnız Azərbaycan üçün)', required=False)
 
     parser.add_argument( 
