@@ -16,7 +16,7 @@ AZPulse alətini işlətmək üçün aşağıdakı addımları izləyin:
 1. Depoyu klonlayın:
 
 ```bash
-git clone https://github.com/senin-adin/AZPulse.git
+git clone https://github.com/thez3nith/AZPulse.git
 cd AZPulse
 ```
 
