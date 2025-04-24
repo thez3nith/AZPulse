@@ -122,7 +122,7 @@ def get_local_hash(script_path):
 def updateus(): 
     print(banner())
     try:
-        script_url = "https://github.com/G00Dway/AZPulse/raw/main/AZPulse.py"
+        script_url = "https://github.com/thez3nith/AZPulse/raw/main/AZPulse.py"
         script_path = os.path.abspath(__file__)
         
         remote_hash = get_remote_hash(script_url)
