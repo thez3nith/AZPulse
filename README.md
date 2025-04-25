@@ -29,7 +29,7 @@ pip3 install -r requirements.txt --break-system-packages
 3. Aləti işə salın:
 
 ```bash
-python3 AZPulse.py
+python3 AZPulse.py --help
 ```
 
 ## ✅ Tələblər
